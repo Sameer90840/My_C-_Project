@@ -21,13 +21,14 @@ This is a simple command-line implementation of the classic Tic-Tac-Toe game wri
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Sameer90840/My_C++_Project.git
+    git clone https://github.com/Sameer90840/My_C-_Project.git
+    
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd My_C++_Project
+    cd My_C-_Project
     ```
 
 3. Compile the source code:
